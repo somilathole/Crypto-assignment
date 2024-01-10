@@ -15,13 +15,18 @@
     background-color: #0032E3;
 }
 
-.trusted-section {
+
+/* .trusted-section {
     background-color: #0032E3;
-}
+} */
 
 .trusted {
     display: flex;
     margin: 50px;
+}
+
+.trusted-text {
+    margin: 150px 0 250px 50px;
 }
 
 .trusted-text h1 {
@@ -29,7 +34,7 @@
     font-size: 70px;
     font-weight: 600;
     width: 548px;
-    height: 168px;
+    height: 158px;
 }
 
 .trusted-text p {
@@ -38,6 +43,7 @@
     font-weight: 400;
     width: 423px;
     height: 96px;
+    margin: 50px 0 0 0;
 }
 
 .demo {
